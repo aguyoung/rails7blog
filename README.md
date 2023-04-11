@@ -1,24 +1,26 @@
-# README
+# Rails 7 blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+This is a personal proof of concept for building a Rails app including some useful libraries
 
-* Ruby version
+## Technologies
+- Rails 7
+- Ruby 3.2
+- Docker
+- Devise + Onminauth Google
+- Sqlite
+- Blazer
 
-* System dependencies
+## Change log
+- Omniauth google
+- Setup devise https://github.com/heartcombo/devise
+- Define a home controller
+- Initial setup `rails new rails7blog`
 
-* Configuration
+## TODO
+- Docker
+- Blazer
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contact
+- https://www.linkedin.com/in/agust%C3%ADn-young-bertassi-a43b5b6b/
