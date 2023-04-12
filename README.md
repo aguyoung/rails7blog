@@ -12,6 +12,9 @@ This is a personal proof of concept for building a Rails app including some usef
 - Sqlite
 - Blazer
 
+## Model
+![](app/assets/images/model.png)
+
 ## Change log
 - Omniauth google
 - Setup devise https://github.com/heartcombo/devise

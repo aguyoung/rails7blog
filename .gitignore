@@ -37,3 +37,4 @@
 # Rubymine internal files
 .idea/
 
+.DS_Store
