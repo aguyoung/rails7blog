@@ -17,8 +17,8 @@ This is a personal proof of concept for building a Rails app including some usef
 
 ## Change log
 - Omniauth google
+- Setup models
 - Setup devise https://github.com/heartcombo/devise
-- Define a home controller
 - Initial setup `rails new rails7blog`
 
 ## TODO
